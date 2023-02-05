@@ -20,7 +20,8 @@ body {
 .sub-title { font-size: 1.75rem; }
 .main-section {
   display: flex;
-  width: 290px;
+  width: 28%;
   flex-direction: column;
-  margin: 2% auto;
+  margin: 3% auto;
 }
+.highlight { padding-left: 15px;color:blue; }
