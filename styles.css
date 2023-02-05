@@ -30,3 +30,4 @@ body {
   border-radius: 15px;
 }
 .highlight { padding-left: 15px;color:greenyellow; }
+button { margin-top: 3%;padding: 20px;border: none; border-radius: 10px;}
